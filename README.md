@@ -1,7 +1,7 @@
 # SparkBoxFiles
 Web File Manager for the SparkBox footswitch. 
 Actually this is a web based LittleFS file manager for ESP32. With a captive portal and minimum functionality. Single user only. 
-# Credentials
+# Credits
 https://github.com/holgerlembke/ESPxWebFlMgr
 thanks for the filemanager
 https://github.com/GyverLibs/SimplePortal
